@@ -1,5 +1,7 @@
 # IBM Container Registry module
 
+:warning: This module is no longer maintained. Please use [terraform-ibm-container-registry](https://github.com/terraform-ibm-modules/terraform-ibm-container-registry) for configuring IBM Cloud Container Registry.
+
 Module to set up the IBM Container Registry, including creating a namespace and upgrading the plan.
 
 ## Software dependencies
